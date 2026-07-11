@@ -5,6 +5,11 @@
       "name": "planning-first",
       "source": "./planning-first",
       "description": "Plan before code. Forces a structured plan into the open before any implementation work begins."
+    },
+    {
+      "name": "reverse-generation-prompt",
+      "source": "./reverse-generation-prompt",
+      "description": "Reverse-engineers a project into a self-contained knowledge package (PROJECT_BLUEPRINT.md + PROJECT_CONTEXT.json + reconstruction prompt) so any LLM can rebuild it with minimal loss."
     }
   ]
 }

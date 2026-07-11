@@ -1,0 +1,8 @@
+{
+  "name": "reverse-generation-prompt",
+  "version": "0.1.0",
+  "description": "Reverse-engineers a project into a self-contained knowledge package (PROJECT_BLUEPRINT.md + PROJECT_CONTEXT.json + reconstruction prompt) so any LLM can rebuild it with minimal loss.",
+  "skills": [
+    "skills/reverse-generation-prompt/SKILL.md"
+  ]
+}

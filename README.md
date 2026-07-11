@@ -7,6 +7,7 @@ A ZCode plugin marketplace for personal, reusable skills.
 | Plugin | Description |
 | --- | --- |
 | `planning-first` | Plan before code. Produces a structured plan before any implementation work begins. |
+| `reverse-generation-prompt` | Reverse-engineers a project into a self-contained knowledge package (`PROJECT_BLUEPRINT.md` + `PROJECT_CONTEXT.json` + reconstruction prompt) so any LLM can rebuild it with minimal information loss. |
 
 ## Install (in the ZCode client)
 
