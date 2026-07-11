@@ -4,7 +4,7 @@
     {
       "name": "planning-first",
       "source": "./planning-first",
-      "description": "Plan before code. Forces a structured plan into the open before any implementation work begins."
+      "description": "Plan before code. Forces a strict analyze → architect → plan → preview → approve → implement workflow with a hard stop for explicit approval before any code is written."
     },
     {
       "name": "reverse-generation-prompt",

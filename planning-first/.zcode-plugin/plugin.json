@@ -1,7 +1,7 @@
 {
   "name": "planning-first",
-  "version": "0.1.0",
-  "description": "Plan before code. Produces a structured plan before any implementation work begins.",
+  "version": "1.0.0",
+  "description": "Plan before code. Forces a strict analyze → architect → plan → preview → approve → implement workflow with a hard stop for explicit approval before any code is written.",
   "skills": [
     "skills/planning-first/SKILL.md"
   ]
