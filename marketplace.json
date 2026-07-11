@@ -10,6 +10,11 @@
       "name": "reverse-generation-prompt",
       "source": "./reverse-generation-prompt",
       "description": "Reverse-engineers a project into a self-contained knowledge package (PROJECT_BLUEPRINT.md + PROJECT_CONTEXT.json + reconstruction prompt) so any LLM can rebuild it with minimal loss."
+    },
+    {
+      "name": "it-prompt-specialist",
+      "source": "./it-prompt-specialist",
+      "description": "Senior multidisciplinary IT expert lens across software engineering, infrastructure, cybersecurity, cloud, AI/ML, data, networking, embedded, game dev, and project management."
     }
   ]
 }

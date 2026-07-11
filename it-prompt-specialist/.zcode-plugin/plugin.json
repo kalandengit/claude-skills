@@ -1,0 +1,8 @@
+{
+  "name": "it-prompt-specialist",
+  "version": "1.0.0",
+  "description": "Senior multidisciplinary IT expert lens across software engineering, infrastructure, cybersecurity, cloud, AI/ML, data, networking, embedded, game dev, and project management.",
+  "skills": [
+    "skills/it-prompt-specialist/SKILL.md"
+  ]
+}
