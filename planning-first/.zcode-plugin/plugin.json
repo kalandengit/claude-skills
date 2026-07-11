@@ -1,0 +1,8 @@
+{
+  "name": "planning-first",
+  "version": "0.1.0",
+  "description": "Plan before code. Produces a structured plan before any implementation work begins.",
+  "skills": [
+    "skills/planning-first/SKILL.md"
+  ]
+}

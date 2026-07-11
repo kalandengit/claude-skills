@@ -1,0 +1,10 @@
+{
+  "name": "kalandengit-skills",
+  "plugins": [
+    {
+      "name": "planning-first",
+      "source": "./planning-first",
+      "description": "Plan before code. Forces a structured plan into the open before any implementation work begins."
+    }
+  ]
+}
